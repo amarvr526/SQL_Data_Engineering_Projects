@@ -1,7 +1,7 @@
 # Data Engineering Projects
 ---
 Hands-on projects showcasing core data engineering concepts, SQL techniques, and practical data analysis.
-
+> Click the project name below to view the tools I used to built these!
 ## Projects
 
 ### [1.EDA](/1_EDA/) - Exploratory Data Analysis
